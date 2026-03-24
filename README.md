@@ -9,7 +9,7 @@
 ## ⚡ Quick Highlights
 
 - 🔥 Passionate about **Front-end & Full Stack Development**  
-- 💡 Building **innovative projects** with **HTML, CSS, JS, Tailwind, PHP, SQL**  
+- 💡 Building **innovative projects** with **HTML, CSS, JS, Tailwind, SQL**  
 - 🌱 Currently learning **Java Full Stack**  
 - 🚀 Always **experimenting, coding, and deploying cool apps**  
 
