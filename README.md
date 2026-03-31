@@ -23,12 +23,12 @@
 
 Hi 👋 I'm **Jatin Soni**  
 
-- 🎓 BCA 3rd Year Student  
-- 💻 Aspiring **Java Full Stack Developer**  
-- 🚀 Building **real-world scalable projects**  
-- 🌐 Skilled in **HTML, CSS, JavaScript, Tailwind, PHP, SQL, WordPress**  
-- 📚 Currently learning **Core Java, JDBC, OOP & Backend**  
-- 🔍 Exploring **DSA & Problem Solving**  
+-  BCA 3rd Year Student  
+-  Aspiring **Java Full Stack Developer**  
+-  Building **real-world scalable projects**  
+-  Skilled in **HTML, CSS, JavaScript, Tailwind, SQL**  
+-  Currently learning **Core Java, JDBC, OOP & Backend**  
+-  Exploring **DSA & Problem Solving**  
 
 ---
 
@@ -78,11 +78,11 @@ Hi 👋 I'm **Jatin Soni**
 
 ---
 
-## 🏆 Achievements  
+## 🌟 Highlights  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jatinsoni08&theme=tokyonight&no-frame=true&row=1"/>
-</p>
+-  Actively building **Java Full Stack projects**  
+-  Strong focus on **practical learning**  
+-  Improving **DSA & problem solving daily**  
 
 ---
 
@@ -109,19 +109,4 @@ Hi 👋 I'm **Jatin Soni**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</div>
-
----
-
-<!-- 🔥 Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/>
-</p>
-
----
-
-<div align="center">
-
-### ⚡ Code. Learn. Build. Repeat. ⚡
-
 </div>
